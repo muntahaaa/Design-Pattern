@@ -1,0 +1,21 @@
+﻿University of Dhaka
+	
+
+	Institute of Information Technology (IIT)
+	Bachelor of Science in Software Engineering (BSSE)
+	
+
+Course:
+	SE 506 Design Patterns
+	Lab 05:
+	Implementation of Adapter Design Pattern
+	Time:
+	2 hours
+	________________
+                                                                                
+A company uses a new printing management application to handle various printing jobs. However, several older printer models are still in use. These legacy printers are incompatible with the new application because they rely on an outdated interface. To address this compatibility issue, you need to apply a design pattern to allow the new system to work seamlessly with both modern and legacy printers. The application will be able to:
+* treat both modern and legacy printers uniformly
+* print documents without needing to know the printer type
+
+
+You need to implement and demonstrate both variations of Adapter Design Pattern (Object Adapter and Class Adapter).
